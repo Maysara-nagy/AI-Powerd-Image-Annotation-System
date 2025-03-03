@@ -6,19 +6,18 @@ The **AI-Powered Image Annotation System** is an intelligent annotation tool des
 ## 🚀 Features  
 - **Automatic Image Classification** – Uses AI models to classify images.  
 - **Manual Annotation Support** – Allows users to classify images when the model is uncertain.  
-- **Efficient Dataset Generation** – Combines AI and human validation to create high-quality datasets.  
 - **User-Friendly Interface** – Designed for seamless interaction.  
 - **Scalable Backend** – Built to handle large datasets efficiently.  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React.js / Next.js (or any framework your team is using)  
-- **Backend:** Node.js / Express / FastAPI (or the technology your backend team chose)  
-- **Database:** MongoDB / PostgreSQL  
+- **Frontend:** React.js.
+- **Backend:** Node.js / Express.
+- **Database:** MongoDB.
 - **AI Model:** TensorFlow / PyTorch-based classification model  
-- **Deployment:** Docker, AWS, or any cloud service  
+- **Deployment:** Docker.
 
 ## 📸 Screenshots  
-(Add screenshots of your UI here)
+
 
 ## 🎯 How It Works  
 1. Upload an image to the system.  
@@ -30,5 +29,5 @@ The **AI-Powered Image Annotation System** is an intelligent annotation tool des
 ## 🔧 Installation  
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/ai-image-annotation.git
-cd ai-image-annotation
+git clone https://github.com/Maysara-nagy/AI-Powerd-Image-Annotation-System.git
+cd AI-Powerd-Image-Annotation-System
